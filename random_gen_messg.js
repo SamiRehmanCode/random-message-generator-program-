@@ -8,4 +8,11 @@ const beginnings = [
     "Never give up",
   ];
 
-  
+  const middles = [
+    "and you'll achieve greatness",
+    "and make it happen",
+    "and see the possibilities",
+    "and find your happiness",
+    "and reach new heights",
+    "and overcome any obstacle",
+  ];
