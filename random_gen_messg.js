@@ -16,3 +16,4 @@ const beginnings = [
     "and reach new heights",
     "and overcome any obstacle",
   ];
+  
