@@ -27,3 +27,9 @@ Feel free to add or remove elements from these arrays to create your own set of 
 
 Here's an example of a generated inspirational message:
 
+
+Each time you run the program, a new random message will be generated.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
